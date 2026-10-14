@@ -1,3 +1,4 @@
+   import "@nestjs/core";
 import { Logger } from "@nestjs/common";
 import { createApp } from "./create-app";
 
